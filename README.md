@@ -1,6 +1,8 @@
 swirl courses
 =============
 
+<a href="https://swirlstatsslack.herokuapp.com"><img src="https://swirlstatsslack.herokuapp.com/badge.svg"></a>
+
 This is a collection of interactive courses for use with the [swirl R package](http://swirlstats.com). You'll find instructions for installing courses further down on this page. Some courses are still in development and we'd love to hear any [suggestions](https://github.com/swirldev/swirl_courses/issues/new) you have as you work through them.
 
 For more information regarding swirl, visit [swirlstats.com](http://swirlstats.com) or the [swirl GitHub repository](https://github.com/swirldev/swirl). If you'd like to write your own interactive content, please visit the [Instructors page](http://swirlstats.com/instructors.html) of our website.
@@ -33,6 +35,12 @@ p-values. It concludes with an initiation to topics of particular
 relevance to big data, issues of multiple testing and resampling.
 
 Since our users come from a variety backgrounds, it's very hard to label material as **Beginner**, **Intermediate**, or **Advanced**. If you find something that is labelled **Beginner** to be challenging, please don't be discouraged. The first step of learning anything is to acknowledge that you are capable of understanding it. True understanding will come with time and practice.
+
+#### Course Authors
+
+- **Writing swirl Courses**: An interactive guides and example 
+  for swirl course authors. The first group of lesson cover basics. The rest cover 
+  special topics useful primarily as samples--points of departure for one's own material.
 
 ## Install and run a course automatically from swirl
 
